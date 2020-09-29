@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Organic Emergence of Agile Processes
 
-You can use the [editor on GitHub](https://github.com/hlfsousa/organic-agile-emergence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As software engineers, we all have some awareness that _agile software development_ is a good thing. Having witnessed a handful processes of CMMi certifications, most developers realize CMMi certification in general is bollocks. And yet, CMMi certification continues to prosper while agile practices become less and less frequently adopted in the industry. How can this be?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project will be divided in three fronts, which I break down below.
 
-### Markdown
+## Knowledge base
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this site, the main project, the rationale for this enterprise will be broken down. This is where the intellectual dialogue about the problems and proposed solutions will happen.
 
-```markdown
-Syntax highlighted code block
+## Onthology API
 
-# Header 1
-## Header 2
-### Header 3
+The overarching goal of this project is to create a common language which we can use to make _agile_ the eventual result of an specific approach that has proven effective and has been refined since the Enlightenment. This common language is then going to be translated to a programatic API.
 
-- Bulleted
-- List
+## Tools and services
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hlfsousa/organic-agile-emergence/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With an onthology represented by a programatic API, we will be able to create or extend tools and services to foster the proposal put forth herein.
