@@ -1,0 +1,11 @@
+# Organic Agile Process Emergence
+
+This project came to be from the frustration of a programmer, [Henrique](https://github.com/hlfsousa). I was introduced to agile software development early in my carreer, becoming familiar with the work of legends like Martin Fowler and Kent Beck. On the small scale things were wonderful, and that knowledge really improved my work.
+
+But after years of being in team after team trying to implement an agile methodology and failing most of the times, I started looking for answers in other areas of knowledge. Of all places, my adventures led me first to Nobel laureate Daniel Kahneman; he wrote of ways in which the mind tricks us into believing things that are not true. This rabbit hole eventually led me to the Philosophy of Science and one Sir Karl Popper. Whenever you ask about why science is so fruitful, this name will most certainly pop out. But Popper is not a scientist; he _merely_ described how good science had been done in the past in a way that could be repeated.
+
+The answer seemed right in front of me, but there was more to uncover. Digging deeper, I came to the work of one Peter Boghossian. You probably don't know him because he is not into IT, as far as I know. His work is focused on the art of discovering truths through dialogue. That was the piece of the puzzle that allowed me to glance the full picture. We do not fail because we don't know _Agile_, or because it doesn't work. We approach _Agile_ as if it was a cargo cult. We think that if we imitate people that made it work, it will work for us too. That is not agile software development.
+
+Funny (or sad) enough, I am not the first to realize this. The failings of _Agile_ have been discussed and documented for several years. Yet, we keep pursuing certifications, courses, tools, spending tons of money to try and imitate agile teams to the best of our ability.
+
+What you see here is not just my own knowledge, thoughts, discoveries. Everything in this enterprise is built upon the work of fine gentlemen like the ones above. And though it starts with one man, it is not a job for one man. Every time we made significant change, we did it as a community. This project starts with one draft paper, but it will take a ton of people to actually make a difference. If you want to be in this community, join us!
