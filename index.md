@@ -2,11 +2,17 @@
 
 As software engineers, we all have some awareness that _agile software development_ is a good thing. Having witnessed a handful processes of CMMi certifications, most developers realize CMMi certification in general is bollocks. And yet, CMMi certification continues to prosper while agile practices become less and less frequently adopted in the industry. How can this be?
 
+For meta-details, [about](about.html)
+
 This project will be divided in three fronts, which I break down below.
 
 ## Knowledge base
 
 In this site, the main project, the rationale for this enterprise will be broken down. This is where the intellectual dialogue about the problems and proposed solutions will happen.
+
+* [Certification is a corporate disease](research/corporate_disease.html)
+* [There is a problem with the adoption of Agile](research/abstract.html)
+* [Emergence of Agile as Evolutionary Epistemology](research/agile_as_evolutionary_epistemology.html)
 
 ## Onthology API
 
