@@ -16,5 +16,5 @@ A problem space is demarcated by some desired outcome, so a measurement may also
 ## Practice
 A practice is a standardized behavior, whether by regulation or instinct. Something as simple as “one-hour lunch break” may be described as a practice. 
 
-#Influence
+## Influence
 A measurement may be influenced by a fact or a practice. Influences can be seen in two ways: as the justification for observable reality -- a description --, or as an attempt to change such observable reality -- a prescriptive, tentative theory.
