@@ -13,6 +13,7 @@ In this site, the main project, the rationale for this enterprise will be broken
 * [Certification is a corporate disease](research/corporate_disease.html)
 * [There is a problem with the adoption of Agile](research/abstract.html)
 * [Emergence of Agile as Evolutionary Epistemology](research/agile_as_evolutionary_epistemology.html)
+* [Dialogue as structured language](research/structured_dialogue.html)
 
 ## Onthology API
 

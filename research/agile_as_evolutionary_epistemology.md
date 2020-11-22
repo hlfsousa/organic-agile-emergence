@@ -31,3 +31,24 @@ Thus we have confirmation that agile practices emerged and are correctly applied
 >-- Alice in Wonderland, Chapter 6: Pig and Pepper
 
 Clearly, every practice was devised with a goal in mind. One measured either objectively or subjectively, qualitatively or quantitatively, but a goal nonetheless. Which is the same as to say that one needs a valid theory to get from PS<sub>1</sub> to PS<sub>2</sub>.
+
+## Error elimination as dialectics
+In contemporary science and Popper’s Evolutionary Epistemology, error elimination is not a linear process. Falsification is in itself a dialectical process, for it relies on comparing the expected results of thesis and antithesis. In the previous section, we can see statements that reflect this same process, with agile practices for software development being created by deriving a falsification test from the goals at hand. Finding new processes can be summarized into a series of questions:
+
+- What is our goal? What do we value? What do we want to achieve?
+- What is the current practice (either intentional or incidental)?
+- What are both the desirable and undesirable consequences of this practice?
+- What new practice is proposed?
+- How does it improve upon the current one? Is the value of its consequences higher than that of the current practice?
+
+If we organize this into a dialectical model, we have all elements of Evolutionary Epistemology: an initial problem space, tentative theses (practices), a process of error elimination, and a resulting problem space.
+
+While Sabherwal and Newman (2003) describe dialectics moved by personal or subjective interests (possibly inspired by evidence), we argue for one moved by realist evidence or, as Boghossian (2002) describes, applying the Socratic Method based on empirical evidence for the dynamics of interests. The objective is to refine the interests of parties involved in decision making by discovering objectives through socratic dialogue.
+
+## Evolution of complexity
+
+As Tentative Theories are selected, problems become more intricate. Sabherwal and Newman (2003) note that interests from different influencers conflict as new practices or solutions are proposed. This effect is illustrated by the discussion Is TTD Dead? already mentioned in this paper. The problem approached by the series of conversations is that a practice (replacing dependencies with mockups) addresses a number of issues in the problem space (such as feedback time and problem insulation) and at the same time creates other issues (usefulness of tests, effort required). That creates a multidimensional domain which an isolated set of practices and their goals alone does not approach. Involved parties may be influenced, due to their limited scope, by decision-making heuristics ([Kahneman, 2010](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)), to choose an approach that does not benefit them or other parties in the big picture.
+
+A dialectic approach, on the other hand, being the set of propositions and their validation, may cover the full effect of changes -- as far as they are knowable. It is a framework upon which process change can be built. If the dialog that led to the adoption of a practice is recorded, i.e., the goals and how adopted practices are known to achieve them, and a practice change is proposed, the whole dialog can be processed again to check what issues the change solves and if new ones are introduced.
+
+In a way, suggesting the persistence of the practice-emergence dialogue is analogous to regression test automation in that introducing a change to existing practices allows for the detection of what goals are affected even if they are not in the intended scope of the change.
