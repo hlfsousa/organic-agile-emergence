@@ -1,0 +1,11 @@
+#Dialogue is the key
+Requirements, tasks, even code, are all representations of dialogues. A dialogue is just the exchange of ideas. Granted, there are two types: open dialogue, in which both parties agave similar roles; and imperative dialogue, in which one party only responds to input.
+
+As software developers, we are used to predictable outcomes through structured communication. Protocols, standards, programming languages are structured forms of communication. These tools allow us to limit the conversation to a finite set of unambiguous terms -- an ontology. Though finite at any point in time, these ontologies evolve to adapt to novel needs. At times, evolution requires breaking down the product (code, standard, protocol) into smaller pieces in order to better understand them. Refactoring, extensions and plugins are some examples of that.
+
+## Less words, more work
+We are used to reducing a conversation about something to a finite set of unambiguous terms. That's all that programming is. We are forced to express whatever is contained in the requirements in the limited ontology of programming languages. And we like it -- well, I do.
+
+Some agile practices try to apply this to the activities we perform in conversations with our human peers. User stories, for instance, establish three essential components: a goal, a stakeholder, and an implicit or explicit test (with several variations). They limit what is talked about and how we talk about the product. Paradoxically, that allows us to communicate better. The same pattern can be seen in many practices adopted under the agile banner, from pair programming to ceremonies. Perhaps we are beautifully chaotic and need some structure to create synergy when working towards specific goals.
+
+The goal of productive dialogue, as I propose it, is to establish rules that allow parties to converge towards common objectives. While I identify that as _ontology_, others call it _Domain-Specific Language_ (DSL). A DSL restricts how parties talk about a specific subject matter; that clears up some of the possible misunderstandings, allowing time and effort that would be put into clarifications to be allocated to "more productive" activities.

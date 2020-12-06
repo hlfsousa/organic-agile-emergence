@@ -14,6 +14,7 @@ In this site, the main project, the rationale for this enterprise will be broken
 * [There is a problem with the adoption of Agile](research/abstract.html)
 * [Emergence of Agile as Evolutionary Epistemology](research/agile_as_evolutionary_epistemology.html)
 * [Dialogue as structured language](research/structured_dialogue.html)
+* [Less words, more work](research/less_words_more_work.md)
 
 ## Onthology API
 
