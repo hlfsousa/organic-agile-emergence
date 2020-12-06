@@ -1,4 +1,4 @@
-#Dialogue is the key
+# Dialogue is the key
 Requirements, tasks, even code, are all representations of dialogues. A dialogue is just the exchange of ideas. Granted, there are two types: open dialogue, in which both parties agave similar roles; and imperative dialogue, in which one party only responds to input.
 
 As software developers, we are used to predictable outcomes through structured communication. Protocols, standards, programming languages are structured forms of communication. These tools allow us to limit the conversation to a finite set of unambiguous terms -- an ontology. Though finite at any point in time, these ontologies evolve to adapt to novel needs. At times, evolution requires breaking down the product (code, standard, protocol) into smaller pieces in order to better understand them. Refactoring, extensions and plugins are some examples of that.
