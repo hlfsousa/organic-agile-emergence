@@ -2,7 +2,7 @@
 
 As software engineers, we all have some awareness that _agile software development_ is a good thing. Having witnessed a handful processes of CMMi certifications, most developers realize CMMi certification in general is bollocks. And yet, CMMi certification continues to prosper while agile practices become less and less frequently adopted in the industry. How can this be?
 
-For meta-details, [about](about.html)
+For meta-details, [about](about.md)
 
 This project will be divided in three fronts, which I break down below.
 
@@ -10,11 +10,12 @@ This project will be divided in three fronts, which I break down below.
 
 In this site, the main project, the rationale for this enterprise will be broken down. This is where the intellectual dialogue about the problems and proposed solutions will happen.
 
-* [Certification is a corporate disease](research/corporate_disease.html)
-* [There is a problem with the adoption of Agile](research/abstract.html)
-* [Emergence of Agile as Evolutionary Epistemology](research/agile_as_evolutionary_epistemology.html)
-* [Dialogue as structured language](research/structured_dialogue.html)
+* [Certification is a corporate disease](research/corporate_disease.md)
+* [There is a problem with the adoption of Agile](research/abstract.md)
+* [Emergence of Agile as Evolutionary Epistemology](research/agile_as_evolutionary_epistemology.md)
+* [Dialogue as structured language](research/structured_dialogue.md)
 * [Less words, more work](research/less_words_more_work.md)
+* [Can Cucumber serve as the base API?](/research/can_cucumber_serve_as_base_API.md)
 
 ## Onthology API
 
